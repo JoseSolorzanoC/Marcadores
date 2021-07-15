@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625458970977",
+    "project_id": "marcadores-e3ec6",
+    "storage_bucket": "marcadores-e3ec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625458970977:android:d0154a2147551c56e94520",
+        "android_client_info": {
+          "package_name": "uteq.appmoviles.marcadoresgooglemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625458970977-74mqc3t9r5lu5d8nn3oagd1h6c960j73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeF4v6rMA_Tem3N7nROjuzAqcWdnimtgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625458970977-74mqc3t9r5lu5d8nn3oagd1h6c960j73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
